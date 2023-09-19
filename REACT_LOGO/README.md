@@ -25,7 +25,7 @@ Create custom logos with ease using this Logo Generator web application. Generat
    npm start
    ```
 
-4. Open your browser and visit `http://localhost:7000` to access the Logo Generator.
+4. Open your browser and visit `http://localhost:3000` to access the Logo Generator.
 
 ## Usage
 
