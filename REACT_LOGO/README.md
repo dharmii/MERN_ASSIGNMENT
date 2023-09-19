@@ -2,8 +2,6 @@
 
 Create custom logos with ease using this Logo Generator web application. Generate logos by entering a single letter, selecting the background color, font, font color, and text size.
 
-![Logo Generator Screenshot](screenshot.png)
-
 ## Features
 
 - Generate logos with a single letter input.
@@ -13,10 +11,6 @@ Create custom logos with ease using this Logo Generator web application. Generat
 ## Getting Started
 
 1. Clone this repository to your local machine.
-
-   ```shell
-   git clone https://github.com/yourusername/logo-generator.git
-   ```
 
 2. Install the required dependencies.
 
