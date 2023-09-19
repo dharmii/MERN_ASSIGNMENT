@@ -41,6 +41,3 @@ You can customize the styling, fonts, and other aspects of the application by mo
 
 This Logo Generator application is built using React.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
