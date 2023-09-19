@@ -1,0 +1,62 @@
+/* src/App.css */
+
+/* Apply a background color to the body element */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Style the main container for the logo generator */
+.App {
+  text-align: center; /* Center align text within the container */
+  max-width: 800px; /* Limit the maximum width of the container */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 16px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+/* Style the heading */
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #333; /* Dark text color */
+}
+
+/* Style the logo generator container */
+.LogoGenerator {
+  background-color: #f9f9f9; /* Light gray background color */
+  border: 2px solid #ddd;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the text size control */
+.text-size-control {
+  margin-top: 24px;
+}
+
+/* Style the download button */
+button {
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 18px;
+}
+
+/* Style the download button on hover */
+button:hover {
+  background-color: #0056b3;
+}
